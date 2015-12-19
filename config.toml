@@ -1,10 +1,10 @@
 baseurl = "http://linjinxing.github.io/blog/"
 languageCode = "en-us"
-title = "Icarus"
+title = "彤星的博客"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+# disqusShortname = "spf13"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+# googleAnalytics = ""
 # Define the number of posts per site
 paginate = 10
 theme = "hugo-icarus"
@@ -33,18 +33,51 @@ theme = "hugo-icarus"
 # and "Tags" / "Categories" after them.
 [[params.menu]]
     before = true
-    label  = "Home"
+    label  = "首页"
     link   = "/"
 
 [[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
+    before = true
+    label  = "iOS"
+    link   = "categories/iOS"
+
+[[params.menu]]
+    before = true
+    label  = "软件架构"
+    link   = "categories/软件架构"
 
 [[params.menu]]
     before = false
-    label  = "Categories"
-    link   = "categories/"
+    label  = "职业规划"
+    link   = "categories/职业规划"
+
+[[params.menu]]
+    before = false
+    label  = "管理"
+    link   = "categories/管理"
+
+[[params.menu]]
+    before = false
+    label  = "敏捷开发"
+    link   = "categories/敏捷开发"
+
+[[params.menu]]
+    before = false
+    label  = "时间管理"
+    link   = "categories/时间管理"
+
+[[params.menu]]
+    before = false
+    label  = "产品"
+    link   = "categories/产品"
+
+[[params.menu]]
+    before = false
+    label  = "学习方法"
+    link   = "categories/学习方法"
+
+
+
 
 # Enter a link for the follow button on the left
 [params.profile]
@@ -86,6 +119,6 @@ theme = "hugo-icarus"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = true
+    categories = false
     tags = true
-    tag_cloud = true
+    tag_cloud = false
