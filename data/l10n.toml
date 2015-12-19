@@ -1,39 +1,39 @@
 [articles]
-    read_more = "Read more"
-    words = "words"
-    readingtime = "minute read"
-    share = "Share"
-    comments = "Comments"
+    read_more = "文章详情"
+    words = "字数"
+    readingtime = "分钟阅读时间"
+    share = "共享"
+    comments = "评论"
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
-    older = "Older"
-    newer = "Newer"
+    older = "更老文章"
+    newer = "更新文章"
 
 [search]
-    placeholder = "Search"
+    placeholder = "搜索"
 
 [pagination]
-    previous = "Prev"
-    next = "Next"
+    previous = "上一篇"
+    next = "下一篇"
 
 [profile]
-    follow_button = "Follow"
-    tags = "Tags"
-    posts = "Posts"
+    follow_button = "关注"
+    tags = "标签"
+    posts = "帖子"
 
 [page_not_found]
-    title = "404 - page not found"
-    subtitle = "The content you're looking for doesn't seem to exist."
+    title = "404 - 页面没找到"
+    subtitle = "您查看的内容不存在"
 
 [widgets.categories]
-    title = "Categories"
+    title = "分类"
 
 [widgets.recent_articles]
-    title = "Recents"
+    title = "最新"
 
 [widgets.tag_cloud]
     title = "Tag cloud"
 
 [widgets.tags]
-    title = "Tags"
+    title = "标签"
