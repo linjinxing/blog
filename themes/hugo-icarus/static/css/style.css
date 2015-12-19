@@ -141,6 +141,9 @@ a:visited {
 .outer:after {
   clear: both;
 }
+.core-value {
+   font-size: 1.5em;  
+}
 @media screen and (max-width: 559px) {
   .outer {
     padding: 0;
