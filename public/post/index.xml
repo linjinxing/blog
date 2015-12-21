@@ -2,82 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 彤星的博客</title>
-    <link>http://linjinxing.github.io/blog/post/</link>
+    <link>http://linjinxing.github.io/post/</link>
     <description>Recent content in Posts on 彤星的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Dec 2015 13:39:46 +0200</lastBuildDate>
-    <atom:link href="http://linjinxing.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://linjinxing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>iOS开发网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <title>android开发网上文章汇总</title>
+      <link>http://linjinxing.github.io/2015/12/19/android%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/android%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
-      <title>产品经理网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <title>iOS开发网上文章汇总</title>
+      <link>http://linjinxing.github.io/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ios.skyfox.org/route.html&#34;&gt;iOS学习路线&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>产品经理网上文章汇总</title>
+      <link>http://linjinxing.github.io/2015/12/19/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
+      
+      <guid>http://linjinxing.github.io/2015/12/19/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>学习方法网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>敏捷开发网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>时间管理网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>管理网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E7%AE%A1%E7%90%86%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>职业规划网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     
     <item>
       <title>软件架构网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <guid>http://linjinxing.github.io/2015/12/19/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
       <description></description>
     </item>
     

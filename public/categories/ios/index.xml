@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on 彤星的博客</title>
-    <link>http://linjinxing.github.io/blog/categories/ios/</link>
+    <link>http://linjinxing.github.io/categories/ios/</link>
     <description>Recent content in Ios on 彤星的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Dec 2015 13:39:46 +0200</lastBuildDate>
-    <atom:link href="http://linjinxing.github.io/blog/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://linjinxing.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iOS开发网上文章汇总</title>
-      <link>http://linjinxing.github.io/blog/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
+      <link>http://linjinxing.github.io/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</link>
       <pubDate>Sat, 19 Dec 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://linjinxing.github.io/blog/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
-      <description></description>
+      <guid>http://linjinxing.github.io/2015/12/19/ios%E5%BC%80%E5%8F%91%E7%BD%91%E4%B8%8A%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ios.skyfox.org/route.html&#34;&gt;iOS学习路线&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

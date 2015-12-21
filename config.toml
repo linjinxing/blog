@@ -1,4 +1,4 @@
-baseurl = "http://linjinxing.github.io/blog/"
+baseurl = "http://linjinxing.github.io/"
 languageCode = "en-us"
 title = "彤星的博客"
 # Enable comments by entering your Disqus shortname
@@ -39,17 +39,17 @@ theme = "hugo-icarus"
 [[params.menu]]
     before = true
     label  = "iOS"
-    link   = "categories/iOS"
+    link   = "categories/ios"
 
 [[params.menu]]
     before = true
-    label  = "软件架构"
+    label  = "架构"
     link   = "categories/软件架构"
 
 [[params.menu]]
     before = false
-    label  = "职业规划"
-    link   = "categories/职业规划"
+    label  = "程序人生"
+    link   = "categories/程序人生"
 
 [[params.menu]]
     before = false
@@ -61,10 +61,11 @@ theme = "hugo-icarus"
     label  = "敏捷开发"
     link   = "categories/敏捷开发"
 
+
 [[params.menu]]
     before = false
-    label  = "时间管理"
-    link   = "categories/时间管理"
+    label  = "android"
+    link   = "categories/android"
 
 [[params.menu]]
     before = false
@@ -73,8 +74,8 @@ theme = "hugo-icarus"
 
 [[params.menu]]
     before = false
-    label  = "学习方法"
-    link   = "categories/学习方法"
+    label  = "其它"
+    link   = "categories/其它"
 
 
 
