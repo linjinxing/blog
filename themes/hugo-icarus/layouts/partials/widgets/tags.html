@@ -7,12 +7,12 @@
     <div class="widget">
         <ul class="category-list">
             {{ range $name, $items := .Site.Taxonomies.tags }}
-            <li class="category-list-item">
+            <!--<li class="category-list-item">-->
                 <a class="category-list-link" href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}">
-                    {{ $name }}
+                    {{ $name }}({{ len $items }})
                 </a>
-                <span class="category-list-count">{{ len $items }}</span>
-            </li>
+               <!-- <span class="category-list-count">{{ len $items }}</span> -->
+            <!--</li>-->
             {{ end }}
         </ul>
     </div>
